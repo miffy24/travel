@@ -27,6 +27,7 @@ export default {
     width: .64rem
     float: left
     text-align: center
+    font-weight: 600;
     .back-icon
       text-align: center
       font-style: .4rem;
